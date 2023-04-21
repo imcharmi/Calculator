@@ -1,15 +1,16 @@
-
-.box{
+.box {
   width: 360px;
   height: 480px;
   border: 2px solid black;
   border-radius: 6px;
 }
-.container{
+
+.container {
   display: flex;
   justify-content: center;
 }
-.box1{
+
+.box1 {
   border-radius: 6px;
   height: 126px;
   background-color: #363636;
@@ -19,28 +20,32 @@
   border-bottom-right-radius: 0px;
 
 }
-.btn{
+
+.btn {
   margin: 2px;
   width: 80px;
-    height: 64px;
+  height: 64px;
 }
-.ex{
+
+.ex {
   width: 165px;
 }
-.prev{
+
+.prev {
   text-align: end;
   padding: 11px;
 }
-.cur{
+
+.cur {
   text-align: end;
   font-size: 45px;
   padding: 10px;
   padding-top: 40px;
 }
 
-.current{
+.current {
   text-align: end;
   font-size: 45px;
   padding: 10px;
-  
+
 }

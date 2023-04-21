@@ -26,6 +26,7 @@ export default function Calc() {
     setCurrrval(eval(currrval));
   };
   return (
+    
     <div className="container">
       <div className="box mt-5">
         <div className="box1">
@@ -33,6 +34,7 @@ export default function Calc() {
         </div>
         <div className="box2 mt-2 m-2">
           <Row>
+            
             <Col>
               <Button onClick={clearval} className="btn btn-secondary ex">
                 Clear
