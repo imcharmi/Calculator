@@ -1,0 +1,46 @@
+
+.box{
+  width: 360px;
+  height: 480px;
+  border: 2px solid black;
+  border-radius: 6px;
+}
+.container{
+  display: flex;
+  justify-content: center;
+}
+.box1{
+  border-radius: 6px;
+  height: 126px;
+  background-color: #363636;
+  color: white;
+
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+
+}
+.btn{
+  margin: 2px;
+  width: 80px;
+    height: 64px;
+}
+.ex{
+  width: 165px;
+}
+.prev{
+  text-align: end;
+  padding: 11px;
+}
+.cur{
+  text-align: end;
+  font-size: 45px;
+  padding: 10px;
+  padding-top: 40px;
+}
+
+.current{
+  text-align: end;
+  font-size: 45px;
+  padding: 10px;
+  
+}
